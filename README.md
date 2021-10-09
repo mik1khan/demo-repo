@@ -1,3 +1,3 @@
-# Demo
+# Demo Repo
 
-New Test demo.
+New Test demo!
